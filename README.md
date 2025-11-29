@@ -151,13 +151,3 @@ Este projeto demonstra domínio completo dos fundamentos de:
 
 O sistema está apto a ser utilizado como **prova de conceito real** por grandes redes de supermercado brasileiras.
 
----
-
-Se quiser, posso gerar:
-
-✅ Diagrama ER (imagem)
-✅ Versão em PDF
-✅ README com GIFs de demonstração
-✅ Organização recomendada das pastas do repositório
-
-É só pedir!
